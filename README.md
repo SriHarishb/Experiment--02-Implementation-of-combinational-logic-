@@ -56,6 +56,3 @@ F2:![Exp2 f2 timing](https://github.com/SriHarishb/Experiment--02-Implementation
 
 Thus the given logic functions are implemented using and their operations are verified using
  Verilog programming.
-
-## Result:
-Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
